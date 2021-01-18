@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+}
+
+.word__container {
+    height: 60px;
+    width: 50px;
+    justify-content: 'center';
+    align-items: 'center';
+    display: 'flex';
+    /* font-size: ; */
+}
+
+.word {
+    font-size: 25px;
+    font-weight: 600;
+}
