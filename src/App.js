@@ -70,7 +70,7 @@ function App() {
         setCurrentIndex(currentIndex + 1)
         data[currentIndex].status = 1
         setData(data)
-        setScore(score + 1)
+        setScore(score + 5)
       } else {
         setCurrentIndex(currentIndex + 1)
         data[currentIndex].status = -1
